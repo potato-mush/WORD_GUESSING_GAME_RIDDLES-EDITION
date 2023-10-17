@@ -217,6 +217,10 @@ const words = [
     word: 'kandila',
     hint: 'Kung gusto mo tumagal pa ang aking buhay, kailangang ako’y mamatay'
   },
+  {
+    word: 'yelo',
+    hint: 'Pinasok kong malambot, nilabas kong matigas'
+  }
 
 ]
 
